@@ -1,4 +1,4 @@
-JavaScript Calculator
+## JavaScript Calculator
 This is the 2nd project for my College Summer Front-End Development certificate.
 
 Completed On: 25 June 2022
