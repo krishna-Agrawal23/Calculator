@@ -1,8 +1,24 @@
-# Calculator
+JavaScript Calculator
+This is the 2nd project for my College Summer Front-End Development certificate.
 
-A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.
+Completed On: 25 June 2022
 
-![Calculator Preview Image](https://user-images.githubusercontent.com/44538497/169086855-bd20e6e0-3675-4db6-b086-0298005973f4.png)
+User Stories:
+##
+I can add, subtract, multiply and divide two numbers.
+I can clear the input field with a clear button.
+I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
 
-* Favicon from:
-<a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Freepik - Flaticon</a>
+Developed using:
+- HTML
+- CSS
+- JavaScript
+##
+
+How To Run:
+##
+Download and Extract the Zip Folder and open the index.html in your local broswer
+
+About:
+##
+This is the 2nd most simple project i made while leaning about Web Development from College Campus in 1st Year 
