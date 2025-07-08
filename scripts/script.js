@@ -6,6 +6,7 @@ const themeIcon = document.getElementById("theme-icon");
 const res = document.getElementById("result");
 const toast = document.getElementById("toast");
 
+
 function calculate(value) {
   const calculatedValue = eval(value || null);
   if (isNaN(calculatedValue)) {
